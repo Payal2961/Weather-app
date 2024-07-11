@@ -13,6 +13,6 @@ A Frontend project application for weather forecast
 #
 * Deployed using Netlify.app
 
-Click here for live demo : [Weather Report by Omkar](https://weatherapp-omkarmurthyp.netlify.app/)
+Click here for live demo : [Weather Report by Payal](https://weatherapp-omkarmurthyp.netlify.app/)
 
 #
